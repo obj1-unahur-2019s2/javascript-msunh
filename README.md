@@ -12,11 +12,11 @@ El proyecto tiene dos dependencias, [jest](https://jestjs.io/) para correr los t
 
 ## Uso
 
-```
-# Ejecutar los tests:
+```shell
+# Ejecutar los tests
 npm test 
 
-# Abrir un REPL:
+# Abrir un REPL
 npm start
 ```
 
