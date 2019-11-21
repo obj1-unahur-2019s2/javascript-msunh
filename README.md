@@ -1,4 +1,36 @@
-En `/pepita` tienen andando: una clase, un test, y una página HTML en la que se usa la clase.
+# Javascript para gente objetosa
+
+Para ejecutar estos ejemplos es necesario tener instalado [npm](https://www.npmjs.com/) o [yarn](https://yarnpkg.com). Recomendamos también utilizar algún editor de texto que se integre bien con Javascript, como [Visual Studio Code](https://code.visualstudio.com/).
+
+## Instalación del proyecto
+
+```
+npm install
+```
+
+El proyecto tiene dos dependencias, [jest](https://jestjs.io/) para correr los tests y [node-repl](https://github.com/maxogden/node-repl) para poder jugar con el código.
+
+## Uso
+
+```
+# Ejecutar los tests:
+npm test 
+
+# Abrir un REPL:
+npm start
+```
+
+## Ejercicios
+
+### pepita
+
+Tienen andando: una clase, un test, y una página HTML en la que se usa la clase. El código lo prueban como se explicó antes, para ver el HTML simplemente hacen doble clic y lo usan desde el navegador. 
+
+:warning: Cuando cambien algo recuerden recargar la página para que se refleje lo nuevo.
+
+### flotas-de-rodados
+
+En principio este es puro Javascript, sin HTML.
 
 ## Las cuatro diferencias entre Wollok y JavaScript para definir una clase
 1. `this` en lugar de `self`
