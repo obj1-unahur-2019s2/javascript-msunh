@@ -1,6 +1,6 @@
 # Javascript para gente objetosa
 
-Para ejecutar estos ejemplos es necesario tener instalado [npm](https://www.npmjs.com/) o [yarn](https://yarnpkg.com). Recomendamos también utilizar algún editor de texto que se integre bien con Javascript, como [Visual Studio Code](https://code.visualstudio.com/).
+Para ejecutar estos ejemplos es necesario tener instalado [NodeJS](https://nodejs.org/en/). Recomendamos también utilizar algún editor de texto que se integre bien con Javascript, como [Visual Studio Code](https://code.visualstudio.com/).
 
 ## Instalación del proyecto
 
